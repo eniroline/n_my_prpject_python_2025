@@ -1,7 +1,6 @@
 name: Automated tests
 
 on:
-  workflow_dispatch
   workflow_dispatch:
     inputs:
       deployment_target:
